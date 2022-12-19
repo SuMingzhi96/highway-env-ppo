@@ -1,3 +1,5 @@
 下载highway_env
 1.请将“更换”文件夹内的__init__与site-packages/highway_env/envs内的对应文件进行替换，并添加racetrack_env1文件
 2.将“更换”文件夹内的cotroller与site-packages/highway_env/vehicle内的对应文件进行替换
+3.训练结果模型好像无法上传github,复制到文件夹内就好 链接：https://pan.baidu.com/s/1Pgf7HSn7h7X8v9_p88PWGA?pwd=nbis 
+提取码：nbis 
